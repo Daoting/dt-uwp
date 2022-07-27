@@ -1,0 +1,8 @@
+﻿{
+  "DbConn": "bs0",
+  "CacheSql": false,
+  "TraceSql": false,
+  "TraceRpc": false,
+  "FixedVolume": "photo;chat",
+  "MaxRequestBodySize": 1024000000
+}
